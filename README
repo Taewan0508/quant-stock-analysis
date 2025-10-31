@@ -1,1 +1,10 @@
+# Quant Stock Analysis
 
+This project explores basic quantitative trading ideas using Python, pandas, and NumPy — all built and tested in Google Colab.
+
+## Overview
+- Downloaded Apple (AAPL) stock data using `yfinance`
+- Calculated 20-day moving average and daily returns
+- Visualized results using `matplotlib`
+
+## Project Structure
